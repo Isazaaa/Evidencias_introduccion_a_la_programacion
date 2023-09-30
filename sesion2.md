@@ -11,9 +11,9 @@ Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los e
 
 Las páginas del sitio serán:
 
-Index o página de inicio
-Acerca
-Contacto
+- Index o página de inicio
+- Acerca
+- Contacto
 
 index.html
 ![Alt text](image.png)
