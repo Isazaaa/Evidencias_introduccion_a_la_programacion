@@ -25,7 +25,7 @@ contact.html
 ![Alt text](image-2.png)
 
 
-SOLUCIÓN
+## SOLUCIÓN
 
 ### index.html
 
