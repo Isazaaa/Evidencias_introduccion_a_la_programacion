@@ -27,7 +27,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 - Utiliza `<u>` para subrayar texto cuando sea necesario.
 - Considera el uso de `<div>` para crear secciones o contenedores para tu contenido, lo que puede facilitar la organización y el diseño de la página.
 
-SOLUCIÓN    
+## SOLUCIÓN    
 
 ```html
 <!DOCTYPE html>

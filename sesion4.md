@@ -18,7 +18,7 @@ Escribir una tabla HTML con 10 filas que muestre información sobre productos re
 
 Además, combinar celdas en la tabla con los atributos rowspan y colspan.
 
-SOLUCIÓN
+## SOLUCIÓN
 
 ```html
 <!DOCTYPE html>

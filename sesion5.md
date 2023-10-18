@@ -27,7 +27,7 @@ Instrucciones:
     - Comentarios
 4. Utilizar las etiquetas HTML apropiados para cada campo.
 
-SOLUCÍON
+## SOLUCÍON
 
 ```html
 <!DOCTYPE html>
