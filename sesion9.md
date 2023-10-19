@@ -92,11 +92,20 @@ Unidades de medida: Prueba diferentes unidades de medida para las propiedades de
 ```
 
 Preguntas:
-¿Qué es la propiedad margin?
-¿Qué es la propiedad padding?
-¿Qué es la propiedad border?
-¿Qué es la propiedad border-radius?
-¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
+- ¿Qué es la propiedad margin?
+ Es una propiedad CSS que controla el espacio exterior alrededor de un elemento HTML, creando márgenes entre el elemento y otros elementos cercanos.
+
+- ¿Qué es la propiedad padding?
+Es una propiedad CSS que controla el espacio interno alrededor del contenido de un elemento HTML, creando relleno entre el contenido y el borde del elemento.
+
+- ¿Qué es la propiedad border?
+ Es una propiedad CSS que define las características del borde de un elemento HTML, como su ancho, estilo y color.
+
+- ¿Qué es la propiedad border-radius?
+Es una propiedad CSS que define la curvatura de las esquinas de un elemento con borde, creando esquinas redondeadas en lugar de ángulos afilados.
+
+- ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
+Las unidades de medida comunes son píxeles (px), porcentajes (%), em (tamaño relativo al tamaño de fuente), rem (tamaño relativo al tamaño de fuente del elemento raíz), y otras como cm, mm, in, pt y pc (unidades físicas) también pueden ser utilizadas en algunas propiedades de espaciado CSS.
 
 
 
