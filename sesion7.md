@@ -14,6 +14,15 @@ Requerimientos del proyecto:
 Crea un proyecto web de diseño libre.
 Documentar el repositorio en el archivo README.md
 
+# Solución
+
+Codigo base:
+https://github.com/Isazaaa/MeraquiFashion.git
+
+Pagina web: 
+https://isazaaa.github.io/MeraquiFashion/
+
+
 
 
 
