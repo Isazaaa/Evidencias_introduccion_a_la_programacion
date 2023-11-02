@@ -62,4 +62,74 @@ Preguntas:
 - La propiedad display se usa para controlar cómo se muestra un elemento en una página web. Puedes asignar valores como block, inline, inline-block, none, etc., para determinar si un elemento se muestra como un bloque, una línea en el flujo de texto, una combinación de ambos o se oculta completamente. Esto afecta la disposición y presentación de elementos en la página.
 
 
+# Solución
 
+HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sesion10</title>
+    <link rel="stylesheet" href="style.css" />
+    
+    
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"/>
+  </head>
+
+  <body>
+    <h1>Prueba1</h1>
+    <div class="elemento1">
+      <div class="elemento2"></div>     
+      <div class="elemento3"></div>
+      <div class="elemento4"></div>
+    </div>
+
+  </body>
+</html>
+```
+
+CSS
+
+```css
+.elemento1 {
+    background-color: rgb(171, 170, 180);
+    height: 250px;
+    width: 250px;
+    position: browser;
+    top: 250px; 
+    left: 2000px;
+  }
+  .elemento2 {
+    background-color: rgb(226, 223, 26);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 70px;
+    left: 20px;
+    display: block;
+  }
+  .elemento3 {
+    background-color: rgb(13, 17, 243);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: 60px;
+  }
+  .elemento4 {
+    background-color: rgb(236, 32, 32);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: -80px;
+    left: 100px;
+    z-index: 3;
+  }
+```
