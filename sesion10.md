@@ -53,13 +53,13 @@ Este ejemplo muestra dos elementos div posicionados de forma absoluta y relativa
 Preguntas:
 
 ¿Cuál es la diferencia entre los valores position: absolute y position: relative?
-El valor position: relative mantiene al elemento en el flujo normal del documento y afecta su posición en relación con su posición original, mientras que position: absolute elimina al elemento del flujo normal y lo posiciona en relación con un ancestro posicionado o el cuerpo del documento, afectando la disposición de otros elementos en la página.
+- El valor position: relative mantiene al elemento en el flujo normal del documento y afecta su posición en relación con su posición original, mientras que position: absolute elimina al elemento del flujo normal y lo posiciona en relación con un ancestro posicionado o el cuerpo del documento, afectando la disposición de otros elementos en la página.
 
 ¿Cómo se puede usar la propiedad z-index para controlar el orden de apilamiento de los elementos posicionados?
-La propiedad z-index se utiliza para controlar el orden de apilamiento de elementos posicionados. Puedes asignar un valor numérico a z-index en CSS, y los elementos con valores más altos se superpondrán a los elementos con valores más bajos. Esto te permite controlar qué elementos aparecen en la parte superior o inferior de la pila de elementos en una página web.
+- La propiedad z-index se utiliza para controlar el orden de apilamiento de elementos posicionados. Puedes asignar un valor numérico a z-index en CSS, y los elementos con valores más altos se superpondrán a los elementos con valores más bajos. Esto te permite controlar qué elementos aparecen en la parte superior o inferior de la pila de elementos en una página web.
 
 ¿Cómo se puede usar la propiedad display para controlar cómo se muestra un elemento en una página web?
-La propiedad display se usa para controlar cómo se muestra un elemento en una página web. Puedes asignar valores como block, inline, inline-block, none, etc., para determinar si un elemento se muestra como un bloque, una línea en el flujo de texto, una combinación de ambos o se oculta completamente. Esto afecta la disposición y presentación de elementos en la página.
+- La propiedad display se usa para controlar cómo se muestra un elemento en una página web. Puedes asignar valores como block, inline, inline-block, none, etc., para determinar si un elemento se muestra como un bloque, una línea en el flujo de texto, una combinación de ambos o se oculta completamente. Esto afecta la disposición y presentación de elementos en la página.
 
 
 
